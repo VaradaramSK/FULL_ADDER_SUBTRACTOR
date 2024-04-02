@@ -40,6 +40,8 @@ Borrow out = A'Bin + A'B + BBin
 
 ![image](https://github.com/VaradaramSK/FULL_ADDER_SUBTRACTOR/assets/144356171/7b7ce842-b44e-4474-9890-feb0cf76baa5)
 
+![image](https://github.com/VaradaramSK/FULL_ADDER_SUBTRACTOR/assets/144356171/c9aa279d-e941-4870-ad06-4b8d0fd9d36e)
+
 
 **Procedure**
 
