@@ -38,6 +38,9 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+![image](https://github.com/VaradaramSK/FULL_ADDER_SUBTRACTOR/assets/144356171/7b7ce842-b44e-4474-9890-feb0cf76baa5)
+
+
 **Procedure**
 
 Write the detailed procedure here
@@ -66,6 +69,9 @@ endmodule
 
 
 **Output Timing Waveform**
+
+![image](https://github.com/VaradaramSK/FULL_ADDER_SUBTRACTOR/assets/144356171/9a36a834-fbf8-41a6-8216-8760721dd571)
+
 
 **Result:**
 
