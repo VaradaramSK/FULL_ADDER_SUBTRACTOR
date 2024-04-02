@@ -37,6 +37,7 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+
 FULL ADDER
 
 ![image](https://github.com/VaradaramSK/FULL_ADDER_SUBTRACTOR/assets/144356171/7b7ce842-b44e-4474-9890-feb0cf76baa5)
@@ -88,11 +89,14 @@ endmodule
 
 
 **Output Timing Waveform**
+
 FULL ADDER
 
 ![image](https://github.com/VaradaramSK/FULL_ADDER_SUBTRACTOR/assets/144356171/9a36a834-fbf8-41a6-8216-8760721dd571)
 
 FULL SUBRACTOR
+
+![image](https://github.com/VaradaramSK/FULL_ADDER_SUBTRACTOR/assets/144356171/2b1482fb-4d3a-41e9-8a67-3baa194310aa)
 
 
 **Result:**
