@@ -105,4 +105,4 @@ Thus the Full Adder and Full Subtractor circuits are designed and the truth tabl
 
 
 
-v
+
