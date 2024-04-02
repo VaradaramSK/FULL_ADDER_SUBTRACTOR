@@ -37,8 +37,10 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
-
+FULL ADDER
 ![image](https://github.com/VaradaramSK/FULL_ADDER_SUBTRACTOR/assets/144356171/7b7ce842-b44e-4474-9890-feb0cf76baa5)
+
+FULL SUBRACTOR
 
 ![image](https://github.com/VaradaramSK/FULL_ADDER_SUBTRACTOR/assets/144356171/c9aa279d-e941-4870-ad06-4b8d0fd9d36e)
 
@@ -46,6 +48,18 @@ Borrow out = A'Bin + A'B + BBin
 **Procedure**
 
 Write the detailed procedure here
+**Full Adder:**
+1.Open Quartus II and create a new project.
+2.Use schematic design entry to draw the full adder circuit. 
+3.The circuit consists of XOR, AND, and OR gates. 
+4.Compile the design, verify its functionality through simulation. 
+5.Implement the design on the target device and program it.
+
+**Full Subtractor:** 
+1.Follow the same steps as for the full adder. 
+2.Draw the full subtractor circuit using schematic design. 
+3.The circuit includes XOR, AND, OR gates to perform subtraction. 
+4.Compile, simulate, implement, and program the design similarly to the full adder.
 
 **Program:**
 
@@ -71,8 +85,11 @@ endmodule
 
 
 **Output Timing Waveform**
+FULL ADDER
 
 ![image](https://github.com/VaradaramSK/FULL_ADDER_SUBTRACTOR/assets/144356171/9a36a834-fbf8-41a6-8216-8760721dd571)
+
+FULL SUBRACTOR
 
 
 **Result:**
